@@ -1,1 +1,1 @@
-# My-Projects
+# Mini Projects in ML
